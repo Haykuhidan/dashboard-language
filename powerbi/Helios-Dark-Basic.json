@@ -1,0 +1,22 @@
+{
+  "name": "Helios Dark Basic",
+  "dataColors": [
+    "#2F80ED",
+    "#20B2AA",
+    "#9B51E0",
+    "#F2994A",
+    "#65717E",
+    "#FFCD11",
+    "#27AE60",
+    "#D64545"
+  ],
+  "background": "#18222D",
+  "foreground": "#E6EBF0",
+  "tableAccent": "#FFCD11",
+  "good": "#27AE60",
+  "neutral": "#F2994A",
+  "bad": "#D64545",
+  "maximum": "#2F80ED",
+  "center": "#1F2B38",
+  "minimum": "#18222D"
+}

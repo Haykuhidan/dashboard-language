@@ -12,9 +12,6 @@
   ],
   "background": "#18222D",
   "foreground": "#E6EBF0",
-  "foregroundNeutralSecondary": "#9AA7B4",
-  "backgroundLight": "#1F2B38",
-  "foregroundLight": "#9AA7B4",
   "tableAccent": "#FFCD11",
   "good": "#27AE60",
   "neutral": "#F2994A",
@@ -22,8 +19,6 @@
   "maximum": "#2F80ED",
   "center": "#1F2B38",
   "minimum": "#18222D",
-  "null": "#65717E",
-  "hyperlink": "#6AA6F7",
   "textClasses": {
     "callout": {
       "fontSize": 24,

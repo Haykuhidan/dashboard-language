@@ -1,0 +1,22 @@
+{
+  "name": "Helios Light Basic",
+  "dataColors": [
+    "#2F80ED",
+    "#14857F",
+    "#8B44D1",
+    "#C2610F",
+    "#5B6672",
+    "#FFCD11",
+    "#1E8449",
+    "#C93C3C"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#111820",
+  "tableAccent": "#FFCD11",
+  "good": "#1E8449",
+  "neutral": "#C2610F",
+  "bad": "#C93C3C",
+  "maximum": "#2F80ED",
+  "center": "#F8FAFC",
+  "minimum": "#FFFFFF"
+}
